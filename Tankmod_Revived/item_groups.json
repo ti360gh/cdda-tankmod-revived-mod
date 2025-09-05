@@ -1,8 +1,8 @@
 [
   {
     "type": "item_group",
-    "id": "mil_hw",
-    "copy-from": "mil_hw",
+    "id": "ammo_milspec",
+    "copy-from": "ammo_milspec",
     "extend": {
       "items": [
         [ "electric_primer_120mm", 2 ],
@@ -21,8 +21,8 @@
   },
   {
     "type": "item_group",
-    "id": "military",
-    "copy-from": "military",
+    "id": "ammo_casings",
+    "copy-from": "ammo_casings",
     "extend": {
       "items": [
         [ "electric_primer_120mm", 2 ],
@@ -42,8 +42,8 @@
   },
   {
     "type": "item_group",
-    "id": "rare",
-    "copy-from": "rare",
+    "id": "milspec_arsenal_group_ammo_heavy_full",
+    "copy-from": "milspec_arsenal_group_ammo_heavy_full",
     "extend": {
       "items": [
         [ "electric_primer_120mm", 1 ],
@@ -84,8 +84,8 @@
   },
   {
     "type": "item_group",
-    "id": "bunker_basement_loot",
-    "copy-from": "bunker_basement_loot",
+    "id": "milspec_arsenal_group_only_ammo",
+    "copy-from": "milspec_arsenal_group_only_ammo",
     "extend": { "items": [ { "group": "guns_launcher_heavy", "prob": 50 } ] }
   },
   {
