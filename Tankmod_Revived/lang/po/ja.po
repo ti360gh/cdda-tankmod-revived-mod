@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: None\n"
 "POT-Creation-Date: 2025-09-06 02:01+0900\n"
-"PO-Revision-Date: 2025-09-06 13:34+0900\n"
+"PO-Revision-Date: 2025-09-06 14:45+0900\n"
 "Last-Translator: U-DESKTOP-NJ4BIKS\\argent <argent@desktop-nj4biks>\n"
 "Language-Team: Japanese\n"
 "Language: ja\n"
@@ -64,7 +64,7 @@ msgid ""
 "A 25x137mm autocannon round, high explosive incendiary.  Designed for use "
 "against unarmored vehicles and to suppress infantry."
 msgstr ""
-"25x137mm 焼夷榴弾です。  非装甲車両への使用と歩兵制圧用に設計されています。"
+"25x137mm 焼夷榴弾です。 非装甲車両への使用と歩兵制圧用に設計されています。"
 
 #. ~ Item name
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
@@ -79,7 +79,7 @@ msgid ""
 "tungsten penetrator.  Used primarily against light armored vehicles and "
 "aerial targets."
 msgstr ""
-"25x137mm 装弾筒付徹甲弾です。タングステン弾芯を使用した自動機関砲弾です。  主"
+"25x137mm 装弾筒付徹甲弾です。タングステン弾芯を使用した自動機関砲弾です。 主"
 "に軽装甲車両と航空目標に対して使用されます。"
 
 #. ~ Item name
@@ -95,7 +95,7 @@ msgid ""
 "basic lead projectile.  Not as effective as the real thing, but still fairly "
 "potent."
 msgstr ""
-"25x137mm 自動機関砲弾です。雷管を交換し、基本的な鉛弾を装填したものです。  本"
+"25x137mm 自動機関砲弾です。雷管を交換し、基本的な鉛弾を装填したものです。 本"
 "物ほど効果的ではありませんが、それでもかなりの威力があります。"
 
 #. ~ Item name
@@ -117,7 +117,7 @@ msgid ""
 "explosive round.  Useful against lightly armored targets, though not as "
 "effective as the real thing."
 msgstr ""
-"25x137mm 自動機関砲弾です。雷管を交換し、自家製爆薬を装填したものです。  軽装"
+"25x137mm 自動機関砲弾です。雷管を交換し、自家製爆薬を装填したものです。 軽装"
 "甲目標に有効ですが、本物ほど効果的ではありません。"
 
 #. ~ Item name
@@ -140,8 +140,8 @@ msgid ""
 "world has gone and ended, it still packs quite a punch."
 msgstr ""
 "105mm 対戦車榴弾です。世界が終末の瀬戸際に立つまで予備として保管されていた旧"
-"式戦車用に設計されたものです。  世界が終わってしまった今でも、その威力は変わ"
-"りません。"
+"式戦車用に設計されたものです。 世界が終わってしまった今でも、その威力は変わり"
+"ません。"
 
 #. ~ Item name
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
@@ -158,7 +158,7 @@ msgid ""
 "it hits a bad time."
 msgstr ""
 "105mm 離脱装弾筒付翼安定式徹甲弾です。現在では旧式戦車への急場しのぎの補給を"
-"除いて一般的には使用されていません。  保管庫から引っ張り出されたものであって"
+"除いて一般的には使用されていません。 保管庫から引っ張り出されたものであって"
 "も、その劣化ウラン弾芯は命中した標的に深刻な損害を与えるでしょう。"
 
 #. ~ Item name
@@ -173,7 +173,7 @@ msgid ""
 "A 105mm shell with a new electric primer installed, loaded with a large "
 "handmade slug.  While hardly ideal, it packs quite a punch."
 msgstr ""
-"新しい電気雷管を取り付け、大型の手作りスラッグ弾を装填した105mm砲弾です。  理"
+"新しい電気雷管を取り付け、大型の手作りスラッグ弾を装填した105mm砲弾です。 理"
 "想的とは言い難いものの、相当な威力があります。"
 
 #. ~ Item name
@@ -194,7 +194,7 @@ msgid ""
 "A 105mm shell with a new electric primer installed, loaded with a homemade "
 "explosive round.  Obsolete or not, it packs quite a punch."
 msgstr ""
-"新しい電気雷管を取り付け、自家製爆薬を装填した105mm砲弾です。  旧式であっても"
+"新しい電気雷管を取り付け、自家製爆薬を装填した105mm砲弾です。 旧式であっても"
 "相当な威力を持ちます。"
 
 #. ~ Item name
@@ -214,7 +214,7 @@ msgstr[0] "弾薬(120mm/M830A1 HEAT)"
 msgid ""
 "A 120mm High Explosive Anti Tank round.  Packs an explosive punch that could "
 "ruin anyone's whole day."
-msgstr "120mm 対戦車榴弾です。  成形炸薬の指向性爆発が甚大な被害を与えます。"
+msgstr "120mm 対戦車榴弾です。 成形炸薬の指向性爆発が甚大な被害を与えます。"
 
 #. ~ Item name
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
@@ -228,8 +228,8 @@ msgid ""
 "A 120mm Armor-Piercing Fin-Stabilized Discarding Sabot round.  Uses a "
 "depleted uranium projectile to give whatever it hits a really bad day."
 msgstr ""
-"120mm 離脱装弾筒付翼安定式徹甲弾です。  劣化ウラン弾芯を使用し、命中した標的"
-"に壊滅的な損害を与えます。"
+"120mm 離脱装弾筒付翼安定式徹甲弾です。 劣化ウラン弾芯を使用し、命中した標的に"
+"壊滅的な損害を与えます。"
 
 #. ~ Item name
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
@@ -245,7 +245,7 @@ msgid ""
 "produced canister shot, but of lower quality."
 msgstr ""
 "簡易に再装填された120mm砲弾で、新しい電気雷管を取り付け、大量の散弾を詰め込ん"
-"でいます。  すでに生産されていないキャニスター弾に似ていますが、品質は劣りま"
+"でいます。 すでに生産されていないキャニスター弾に似ていますが、品質は劣りま"
 "す。"
 
 #. ~ Item name
@@ -268,7 +268,7 @@ msgid ""
 "punch."
 msgstr ""
 "簡易に再装填された120mm砲弾で、新しい電気雷管を取り付け、大型の自作スラグ弾頭"
-"を装填しています。  決して理想的とは言えませんが、相当な威力を発揮します。"
+"を装填しています。 決して理想的とは言えませんが、相当な威力を発揮します。"
 
 #. ~ Item name
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
@@ -290,7 +290,7 @@ msgid ""
 "ruin anyone's whole day."
 msgstr ""
 "簡易に再装填された120mm砲弾で、新しい電気雷管を取り付け、自作の炸薬弾頭を装填"
-"しています。  強烈な爆発力により甚大な被害を与えます。"
+"しています。 強烈な爆発力により甚大な被害を与えます。"
 
 #. ~ Item name
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
@@ -314,9 +314,9 @@ msgid ""
 "astounding display of overkill."
 msgstr ""
 "155mm 対戦車榴弾です。通常はレーザー誘導が必要です。分離装薬式で、必要な信"
-"管、装薬袋、撃発雷管が付属しています。  誘導機能にはレーザー指示装置が必要で"
-"最小射程が3キロメートルのため、直接射撃で使用するのは信じがたいオーバーキルと"
-"言えます。"
+"管、装薬袋、撃発雷管が付属しています。 誘導機能にはレーザー指示装置が必要で最"
+"小射程が3キロメートルのため、直接射撃で使用するのは信じがたいオーバーキルと言"
+"えます。"
 
 #. ~ Item name
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
@@ -334,9 +334,9 @@ msgid ""
 "bad time."
 msgstr ""
 "155mm 榴散弾です。分離装薬式で、必要な信管、装薬袋、撃発雷管が付属していま"
-"す。  重い砲弾を長距離に投射するよう設計されているため直接射撃での使用は理想"
-"的とは言えませんが、命中地点の周辺にあるものには何でも深刻な損害を与えるで"
-"しょう。"
+"す。 重い砲弾を長距離に投射するよう設計されているため直接射撃での使用は理想的"
+"とは言えませんが、命中地点の周辺にあるものには何でも深刻な損害を与えるでしょ"
+"う。"
 
 #. ~ Item name
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
@@ -352,7 +352,7 @@ msgid ""
 "turns a howitzer into a punt gun on steroids."
 msgstr ""
 "155mm散弾の簡易版です。鉛球を詰めた容器、装薬袋、交換式雷管で構成されていま"
-"す。  榴弾砲をまるで強化された超大型の散弾銃に変えてしまう代物です。"
+"す。 榴弾砲をまるで強化された超大型の散弾銃に変えてしまう代物です。"
 
 #. ~ Item name
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
@@ -374,7 +374,7 @@ msgid ""
 "effectiveness, whatever it hits is sure to feel it."
 msgstr ""
 "155mm分離装填弾の簡易版です。大型の鉛球、装薬袋、交換式雷管で構成されていま"
-"す。  効果は劣りますが、命中したものは確実にその威力を感じるでしょう。"
+"す。 効果は劣りますが、命中したものは確実にその威力を感じるでしょう。"
 
 #. ~ Item name
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
@@ -396,9 +396,9 @@ msgid ""
 "primer.  Using it for direct-fire isn't ideal, but it should be more than "
 "enough to ruin anyone's day."
 msgstr ""
-"簡易的な155mm用分離装薬式榴弾です。  信管付きの自作炸薬弾頭、装薬袋、交換用雷"
-"管で構成されています。  直射には適していませんが、甚大な被害を与えるには十分"
-"すぎる威力を持っています。"
+"簡易的な155mm用分離装薬式榴弾です。 信管付きの自作炸薬弾頭、装薬袋、交換用雷"
+"管で構成されています。 直射には適していませんが、甚大な被害を与えるには十分す"
+"ぎる威力を持っています。"
 
 #. ~ Item name
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
@@ -421,8 +421,8 @@ msgid ""
 "firepower would best be engaged from a safe distance."
 msgstr ""
 "実験的に作成された155mm分離装填弾です。装薬袋と交換式雷管を使用し、榴弾砲向け"
-"に改造された小型核弾頭を発射します。  この恐るべき火力が必要とされる状況で"
-"は、十分に離れた距離から対処するべきでしょう。"
+"に改造された小型核弾頭を発射します。 この恐るべき火力が必要とされる状況では、"
+"十分に離れた距離から対処するべきでしょう。"
 
 #. ~ Item name
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
@@ -459,7 +459,7 @@ msgid ""
 "forming the bulk of the casing itself, what's left is now an expensive "
 "paperweight."
 msgstr ""
-"発射済の120mm砲弾の鋼鉄製薬莢底部です。  薬莢の大部分は可燃性のため、残された"
+"発射済の120mm砲弾の鋼鉄製薬莢底部です。 薬莢の大部分は可燃性のため、残された"
 "これは高価な文鎮にすぎません。"
 
 #. ~ Item name
@@ -476,8 +476,8 @@ msgid ""
 "good, or else it might be a better fit for a pipe bomb instead."
 msgstr ""
 "発射済の120mm砲弾の薬莢の底部を流用し、適切な寸法の新しい薬莢壁を溶接して取り"
-"付けた簡易薬莢です。  溶接がうまくいっていることを祈るべきで、そうでなければ"
-"パイプ爆弾にでもした方がよいかもしれません。"
+"付けた簡易薬莢です。 溶接がうまくいっていることを祈るべきで、そうでなければパ"
+"イプ爆弾にでもした方がよいかもしれません。"
 
 #. ~ Item name
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
@@ -488,7 +488,7 @@ msgstr[0] "雷管(105mm/120mm戦車砲)"
 #. ~ Description of "electric primer"
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
 msgid "Primer for a tank shell.  Seems to use an electric ignition."
-msgstr "戦車砲弾の雷管です。  電気発火式のようです。"
+msgstr "戦車砲弾の雷管です。 電気発火式のようです。"
 
 #. ~ Item name
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
@@ -499,7 +499,7 @@ msgstr[0] "雷管(155mm)"
 #. ~ Description of "artillery primer"
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
 msgid "Primer for an artillery shell.  Uses percussion ignition."
-msgstr "榴弾砲のプライマーです。  打撃点火式です。"
+msgstr "榴弾砲のプライマーです。 打撃点火式です。"
 
 #. ~ Item name
 #. ~ Name of a gun
@@ -518,8 +518,8 @@ msgid ""
 msgstr ""
 "M242 ブッシュマスター機関砲です。25x137mm弾を使用するチェーン駆動式の機関砲"
 "で、ブラッドレー歩兵戦闘車や他の地上車両用に設計されており、一部で艦載用とし"
-"ても使用されています。  電動駆動のため、車両に搭載されていなければ発砲は非常"
-"に困難です。"
+"ても使用されています。 電動駆動のため、車両に搭載されていなければ発砲は非常に"
+"困難です。"
 
 #. ~ Firing mode of gun
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
@@ -560,9 +560,9 @@ msgid ""
 "mounted on a vehicle."
 msgstr ""
 "M242ブッシュマスター機関砲を改造して作られたもので、簡易的に対物ライフルに仕"
-"立てられています。  チェーン駆動機構を取り外すことで単発式となり軽量化されて"
-"いますが、それでもなお非常にかさばるので射撃するには設置するか車両に搭載しな"
-"ければなりません。"
+"立てられています。 チェーン駆動機構を取り外すことで単発式となり軽量化されてい"
+"ますが、それでもなお非常にかさばるので射撃するには設置するか車両に搭載しなけ"
+"ればなりません。"
 
 #. ~ Skill associated with gun
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
@@ -618,9 +618,9 @@ msgid ""
 "vehicle."
 msgstr ""
 "25x157mm砲弾を発射できるよう無理に改造された簡易的な機関砲で、短い肉厚の砲身"
-"と焼入れ鋼製の閉鎖機を備えています。  信頼性に欠け、性能も大幅に低下します"
-"が、設置が容易で修理もしやすいです。  単発式で電気点火方式を採用しており、車"
-"両に搭載しなければ発射できません。"
+"と焼入れ鋼製の閉鎖機を備えています。 信頼性に欠け、性能も大幅に低下しますが、"
+"設置が容易で修理もしやすいです。 単発式で電気点火方式を採用しており、車両に搭"
+"載しなければ発射できません。"
 
 #. ~ Item name
 #. ~ Name of a gun
@@ -638,8 +638,8 @@ msgid ""
 "mounted on a vehicle to fire."
 msgstr ""
 "ラインメタル Rh-120の改良型で、この120mm砲はM1エイブラムス戦車に採用されたこ"
-"とで知られています。  電気点火式で、当然ながら発射するには車両への搭載が必要"
-"です。"
+"とで知られています。 電気点火式で、当然ながら発射するには車両への搭載が必要で"
+"す。"
 
 #. ~ Item name
 #. ~ Name of a gun
@@ -657,8 +657,8 @@ msgid ""
 "needs to be mounted on a vehicle to fire."
 msgstr ""
 "ラインメタルRh-120の実験型バリエーションで、5発分の自動装填装置を備えた120mm"
-"戦車砲です。  電気点火方式を採用しており、もちろん車両に搭載しなければ発射で"
-"きません。"
+"戦車砲です。 電気点火方式を採用しており、もちろん車両に搭載しなければ発射でき"
+"ません。"
 
 #. ~ Item name
 #. ~ Name of a gun
@@ -678,9 +678,9 @@ msgid ""
 "must be mounted on a vehicle to fire."
 msgstr ""
 "120mm砲弾を発射できるよう無理に改造された簡易的な大砲で、短い肉厚の砲身と焼入"
-"れ鋼製の閉鎖機を備えています。  信頼性に欠け、性能も大幅に低下しますが、設置"
-"が容易で修理もしやすいです。  単発式で電気点火方式を採用しており、車両に搭載"
-"しなければ発射できません。"
+"れ鋼製の閉鎖機を備えています。 信頼性に欠け、性能も大幅に低下しますが、設置が"
+"容易で修理もしやすいです。 単発式で電気点火方式を採用しており、車両に搭載しな"
+"ければ発射できません。"
 
 #. ~ Item name
 #. ~ Name of a gun
@@ -701,8 +701,8 @@ msgid ""
 msgstr ""
 "世界各国の装甲車両で使用されていたロイヤル・オードナンス L7の改良型です。多く"
 "は既に退役していますが一部は現在も使用中で、また一部は世界が終わる前の絶望的"
-"な最後の日々に予備から復帰させられました。  電気点火式で、当然ながら発砲する"
-"には車両への搭載が必要です。"
+"な最後の日々に予備から復帰させられました。 電気点火式で、当然ながら発砲するに"
+"は車両への搭載が必要です。"
 
 #. ~ Item name
 #. ~ Name of a gun
@@ -722,9 +722,9 @@ msgid ""
 "must be mounted on a vehicle to fire."
 msgstr ""
 "105mm砲弾を発射できるよう無理に改造された簡易的な大砲で、短い肉厚の砲身と焼入"
-"れ鋼製の閉鎖機を備えています。  信頼性に欠け、性能も大幅に低下しますが、設置"
-"が容易で修理もしやすいです。  単発式で電気点火方式を採用しており、車両に搭載"
-"しなければ発射できません。"
+"れ鋼製の閉鎖機を備えています。 信頼性に欠け、性能も大幅に低下しますが、設置が"
+"容易で修理もしやすいです。 単発式で電気点火方式を採用しており、車両に搭載しな"
+"ければ発射できません。"
 
 #. ~ Item name
 #. ~ Name of a gun
@@ -740,8 +740,8 @@ msgid ""
 "A 155mm cannon designed for self-propelled guns such as the M109.  Obviously "
 "it needs to be mounted on a vehicle to fire."
 msgstr ""
-"M109自走砲などに搭載するために設計された155mm榴弾砲です。   当然ながら発射す"
-"るには車両への搭載が必要です。"
+"M109自走砲などに搭載するために設計された155mm榴弾砲です。  当然ながら発射する"
+"には車両への搭載が必要です。"
 
 #. ~ Item name
 #. ~ Name of a gun
@@ -761,9 +761,9 @@ msgid ""
 "on a vehicle to fire."
 msgstr ""
 "155mm榴弾を発射できるよう無理に改造された簡易的な大砲で、短い肉厚の砲身と焼入"
-"れ鋼製の閉鎖機を備えています。  信頼性に欠け、性能も大幅に低下しますが、設置"
-"が容易で修理もしやすいです。  単発式で電気点火方式を採用しており、車両に搭載"
-"しなければ発射できません。"
+"れ鋼製の閉鎖機を備えています。 信頼性に欠け、性能も大幅に低下しますが、設置が"
+"容易で修理もしやすいです。 単発式で電気点火方式を採用しており、車両に搭載しな"
+"ければ発射できません。"
 
 #. ~ Item name
 #. ~ Name of a gun
@@ -780,9 +780,9 @@ msgid ""
 "for vehicle use.  While fairly accurate, it isn't fire-and-forget.  "
 "Obviously it needs to be mounted on a vehicle to fire."
 msgstr ""
-"対戦車誘導ミサイル用の双連装発射機で、車両搭載専用に設計されています。  狙い"
-"はかなり正確ですが、撃ちっぱなし式ではありません。当然ながら発射するには車両"
-"への搭載が必要です。"
+"対戦車誘導ミサイル用の双連装発射機で、車両搭載専用に設計されています。 狙いは"
+"かなり正確ですが、撃ちっぱなし式ではありません。当然ながら発射するには車両へ"
+"の搭載が必要です。"
 
 #. ~ Item name
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
@@ -799,7 +799,7 @@ msgid ""
 "parts of the text."
 msgstr ""
 "近代砲兵の歴史を扱った教科書で、多数の挿絵や各種野戦教範からの抜粋を含んでい"
-"ます。  弾薬手詰や整備に熟練していれば、技術的な記述を応用できるかもしれませ"
+"ます。 弾薬手詰や整備に熟練していれば、技術的な記述を応用できるかもしれませ"
 "ん。"
 
 #. ~ Item name
@@ -829,8 +829,8 @@ msgid ""
 "A hulking wreck of treads, composite plating, and cold robotic hatred.  "
 "Hopefully won't ever be operational again, now only good for parts."
 msgstr ""
-"無限軌道と装甲板、冷酷な機械の意思でできた巨大な残骸です。  再稼働しないこと"
-"を願いながら、分解して部品を取り出せそうです。"
+"無限軌道と装甲板、冷酷な機械の意思でできた巨大な残骸です。 再稼働しないことを"
+"願いながら、分解して部品を取り出せそうです。"
 
 #. ~ Item name
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
@@ -847,8 +847,8 @@ msgid ""
 "regular tires due to not being at risk of bursting; but is quite heavy."
 msgstr ""
 "硬質ゴム製のキャタピラで、硬いワイヤーで補強され、小型の車輪群によって保持さ"
-"れる構造になっています。  小型建設車両でよく見られるタイプで、破裂の危険がな"
-"いため通常のタイヤよりもはるかに頑丈ですが、その分重量があります。"
+"れる構造になっています。 小型建設車両でよく見られるタイプで、破裂の危険がない"
+"ため通常のタイヤよりもはるかに頑丈ですが、その分重量があります。"
 
 #. ~ Item name
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
@@ -864,9 +864,9 @@ msgid ""
 "vehicles.  It's significantly stronger than regular tires due to not being "
 "at risk of bursting; but is very heavy."
 msgstr ""
-"鋼材のキャタピラで、小型の車輪群によって保持される構造になっています。  大型"
-"建設車両でよく見られるタイプで、破裂の危険がないため通常のタイヤよりもはるか"
-"に頑丈ですが、その分非常に重いです。"
+"鋼材のキャタピラで、小型の車輪群によって保持される構造になっています。 大型建"
+"設車両でよく見られるタイプで、破裂の危険がないため通常のタイヤよりもはるかに"
+"頑丈ですが、その分非常に重いです。"
 
 #. ~ Item name
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
@@ -882,9 +882,9 @@ msgid ""
 "vehicles.  It's significantly stronger than regular tires due to not being "
 "at risk of bursting; but is extremely heavy."
 msgstr ""
-"鋼材のキャタピラで、小型の車輪群によって保持される構造になっています。  装甲"
-"兵員輸送車や装甲車両でよく見られるタイプで、破裂の危険がないため通常のタイヤ"
-"よりもはるかに頑丈ですが、その分極めて重いです。"
+"鋼材のキャタピラで、小型の車輪群によって保持される構造になっています。 装甲兵"
+"員輸送車や装甲車両でよく見られるタイプで、破裂の危険がないため通常のタイヤよ"
+"りもはるかに頑丈ですが、その分極めて重いです。"
 
 #. ~ Mission name
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\missiondef.json
@@ -899,7 +899,7 @@ msgid ""
 "it's probably overrun, but some fuel and ammo would be better than nothing."
 msgstr ""
 "あなたの戦車の最後の乗員が物資を求めてヘリポートへ向かいましたが、たどり着け"
-"なかったのでしょう。戻ってはきませんでした。  今ごろは制圧されているはずです"
+"なかったのでしょう。戻ってはきませんでした。 今ごろは制圧されているはずです"
 "が、それでも燃料や弾薬を少しでも確保できるかもしれません。"
 
 #. ~ MOD name
@@ -927,8 +927,8 @@ msgid ""
 "treads, ponderous yet implacable.  If it's taking aim at you… run."
 msgstr ""
 "小型車ほどの大きさを持つ実験的な重装甲無人戦車で、巨大な120mm主砲がその構造の"
-"大部分を占めています。  装甲履帯が重々しくも容赦なく進み続けます。  もし狙わ"
-"れたら……逃げてください。"
+"大部分を占めています。 装甲履帯が重々しくも容赦なく進み続けます。 もし狙われ"
+"たら……逃げてください。"
 
 #. ~ Death message of monster "XM246E1 Mini-Tank UAFV"
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\monsters.json
@@ -944,7 +944,7 @@ msgstr "無人戦車が120mmを発射！"
 #. ~ Targeting sound of special attack of monster "XM246E1 Mini-Tank UAFV"
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\monsters.json
 msgid "\"120mm HEAT, up.  Targeting.  On the way.\""
-msgstr "\"120mm HEAT弾、装填完了。  照準中。  発射用意\""
+msgstr "\"120mm HEAT弾、装填完了。 照準中。 発射用意\""
 
 #. ~ No ammo sound of special attack of monster "XM246E1 Mini-Tank UAFV"
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\monsters.json
@@ -1103,9 +1103,9 @@ msgid ""
 "position."
 msgstr ""
 "大規模動員の失敗を経て生存者を探しさまよい続けるうちに、あなたの戦車とその乗"
-"員は徐々に消耗していきました。  古い無線塔で通信を確立しようとした後、唯一"
-"残ったもう一人の乗員も数日前に物資と燃料を求めて出ていきました。  そして今、"
-"何かが死者を刺激したのか、幾体かが集まり始めました。"
+"員は徐々に消耗していきました。 古い無線塔で通信を確立しようとした後、唯一残っ"
+"たもう一人の乗員も数日前に物資と燃料を求めて出ていきました。 そして今、何かが"
+"死者を刺激したのか、幾体かが集まり始めました。"
 
 #. ~ Description of scenario "Armored Apocalypse" for female
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\scenarios.json
@@ -1119,9 +1119,9 @@ msgid ""
 "position."
 msgstr ""
 "大規模動員の失敗を経て生存者を探しさまよい続けるうちに、あなたの戦車とその乗"
-"員は徐々に消耗していきました。  古い無線塔で通信を確立しようとした後、唯一"
-"残ったもう一人の乗員も数日前に物資と燃料を求めて出ていきました。  そして今、"
-"何かが死者を刺激したのか、幾体かが集まり始めました。"
+"員は徐々に消耗していきました。 古い無線塔で通信を確立しようとした後、唯一残っ"
+"たもう一人の乗員も数日前に物資と燃料を求めて出ていきました。 そして今、何かが"
+"死者を刺激したのか、幾体かが集まり始めました。"
 
 #. ~ Starting location of scenario "Armored Apocalypse"
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\scenarios.json
@@ -1144,7 +1144,7 @@ msgstr "クソでかい大砲を使うなら耳栓で脳を守れ"
 #. ~ Snippet in category "note"
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\snippets.json
 msgid "\"I have a bicycle-mounted tank cannon.  Your argument is invalid.\""
-msgstr "戦車砲を乗せた自転車を持ってる。  反論は認めない"
+msgstr "戦車砲を乗せた自転車を持ってる。 反論は認めない"
 
 #. ~ Snippet in category "note"
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\snippets.json
@@ -1158,7 +1158,7 @@ msgstr "次にこの歩兵戦闘車を『戦車』と呼んだやつは、家ま
 msgid ""
 "\"Found what used to be an armored platoon.  I don't want to find out what "
 "did them in.\""
-msgstr "元装甲小隊だった残骸を見つけた。  何がやったのかは知りたくない"
+msgstr "元装甲小隊だった残骸を見つけた。 何がやったのかは知りたくない"
 
 #. ~ Snippet in category "one_year_old_news"
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\snippets.json
@@ -1179,15 +1179,15 @@ msgid ""
 "other, each monitoring the situation and calling in targets.\""
 msgstr ""
 "実験戦車、野外試験へ - 国防総省は昨日のプレスリリースで、新型軽戦車の一連の野"
-"外試験計画を確認した。現時点での指定は「XM7 Tankette」。  この実験的設計は従"
-"来の装甲ドクトリンからの大きな転換で、長距離航続が可能な電動エンジンと最新鋭"
-"の自動装填装置を備え、最近になって120mm主砲に対応するよう改修された。特筆すべ"
-"きは単座の乗員区画が確認された点で、高度な射撃統制とセンサーにより車長と砲手"
-"を不要とするという。  ダブロウスキー准将は「これは由緒あるエイブラムスの代替"
-"を想定していない。都市戦における新たな役割を見込んでいる。  約1年後には、同等"
-"の火力を維持しつつ製造コストをエイブラムスの4分の1にできることを期待してい"
-"る。  同じ人数の兵員で1両の戦車を運用する代わりに、これを4両相互に支援させ、"
-"各車が状況を監視して目標を指示できるようになる」と述べた。"
+"外試験計画を確認した。現時点での指定は「XM7 Tankette」。 この実験的設計は従来"
+"の装甲ドクトリンからの大きな転換で、長距離航続が可能な電動エンジンと最新鋭の"
+"自動装填装置を備え、最近になって120mm主砲に対応するよう改修された。特筆すべき"
+"は単座の乗員区画が確認された点で、高度な射撃統制とセンサーにより車長と砲手を"
+"不要とするという。 ダブロウスキー准将は「これは由緒あるエイブラムスの代替を想"
+"定していない。都市戦における新たな役割を見込んでいる。 約1年後には、同等の火"
+"力を維持しつつ製造コストをエイブラムスの4分の1にできることを期待している。 同"
+"じ人数の兵員で1両の戦車を運用する代わりに、これを4両相互に支援させ、各車が状"
+"況を監視して目標を指示できるようになる」と述べた。"
 
 #. ~ Snippet in category "months_old_news"
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\snippets.json
@@ -1206,14 +1206,14 @@ msgid ""
 "main gun and an M2 Browning, but for now we're focusing on the main gun.\""
 msgstr ""
 "ロボット戦車、お披露目 - 先日の記者会見で、AI駆動の防衛システムにおける最新開"
-"発が確認された。  新プロジェクトはごく最近になって初期試験段階に入ったばかり"
-"であり、多くの詳細は依然として機密扱いとされている。  発表によれば「XM7 "
-"Tankette計画で得られた技術を応用し、さらなる小型化に成功した」という。実験的"
-"軽戦車計画は今後、生産拡大と正式採用に向かう見通しだ。  「自律型射撃統制は未"
-"踏の領域だ。これまで運用してきたものは、戦車砲のような大口径兵器を扱ったこと"
-"がない。  すべての問題を解決し次第、次の試験段階に進む予定だ。今年末までには"
-"主砲とM2ブローニングの両方を制御できるデュアルコアAIを完成させる計画だが、現"
-"時点では主砲に重点を置いている」としている。"
+"発が確認された。 新プロジェクトはごく最近になって初期試験段階に入ったばかりで"
+"あり、多くの詳細は依然として機密扱いとされている。 発表によれば「XM7 Tankette"
+"計画で得られた技術を応用し、さらなる小型化に成功した」という。実験的軽戦車計"
+"画は今後、生産拡大と正式採用に向かう見通しだ。 「自律型射撃統制は未踏の領域"
+"だ。これまで運用してきたものは、戦車砲のような大口径兵器を扱ったことがない。 "
+"すべての問題を解決し次第、次の試験段階に進む予定だ。今年末までには主砲とM2ブ"
+"ローニングの両方を制御できるデュアルコアAIを完成させる計画だが、現時点では主"
+"砲に重点を置いている」としている。"
 
 #. ~ Snippet in category "weeks_old_news"
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\snippets.json
@@ -1232,11 +1232,11 @@ msgstr ""
 "パットン戦車、再配備へ - 戦争の兆しをめぐる噂と高まる不安のなか、先日の記者会"
 "見で緊急計画が明らかにされた。それによれば、複数のM60パットン主力戦車を修復・"
 "再武装し、今後数週間のうちにニューイングランド各地でおよそ200両を展開可能にす"
-"るという。  当局はこの再武装計画の目的について明言を避けたが、中国による侵攻"
-"が差し迫っていることの暗黙の確認ではないかとの憶測を呼んでいる。  軍内部の匿"
-"名の情報源によれば「M60パットンは96式や99式戦車と相対することは想定していな"
-"い。おそらくは08式歩兵戦闘車や15式軽戦車といった車両に対処するために用いられ"
-"るだろう」とのことだ。"
+"るという。 当局はこの再武装計画の目的について明言を避けたが、中国による侵攻が"
+"差し迫っていることの暗黙の確認ではないかとの憶測を呼んでいる。 軍内部の匿名の"
+"情報源によれば「M60パットンは96式や99式戦車と相対することは想定していない。お"
+"そらくは08式歩兵戦闘車や15式軽戦車といった車両に対処するために用いられるだろ"
+"う」とのことだ。"
 
 #. ~ Speech from speaker mon_uafv_xm246e1
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\speech.json
@@ -1283,9 +1283,9 @@ msgid ""
 "provides plenty of traction to move heavy vehicles off-road, but at the cost "
 "of speed due to the heavy weight."
 msgstr ""
-"建設車両や軍用戦闘車両に用いられる無限軌道の一部です。  車輪の役割を果たし、"
-"広い接地面によって重車両を不整地で走行させるのに十分な牽引力を発揮しますが、"
-"その重量のため速度は低下します。"
+"建設車両や軍用戦闘車両に用いられる無限軌道の一部です。 車輪の役割を果たし、広"
+"い接地面によって重車両を不整地で走行させるのに十分な牽引力を発揮しますが、そ"
+"の重量のため速度は低下します。"
 
 #. ~ Label of vehicle part variant ""
 #: ..\cdda-tankmod-revived-mod\Tankmod_Revived\treads.json
