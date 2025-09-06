@@ -1,0 +1,1349 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: None\n"
+"POT-Creation-Date: 2025-09-06 02:01+0900\n"
+"PO-Revision-Date: 2025-09-06 13:34+0900\n"
+"Last-Translator: U-DESKTOP-NJ4BIKS\\argent <argent@desktop-nj4biks>\n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. ~ Name of an ammunition type
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\ammo_types.json
+msgid "105mm shell"
+msgstr "弾薬(105mm)"
+
+#. ~ Name of an ammunition type
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\ammo_types.json
+msgid "120mm shell"
+msgstr "弾薬(120mm)"
+
+#. ~ Name of an ammunition type
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\ammo_types.json
+msgid "155mm shell"
+msgstr "弾薬(155mm)"
+
+#. ~ Name of an ammunition type
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\ammo_types.json
+msgid "25x137mm"
+msgstr "弾薬(25x137mm)"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "large artillery casing"
+msgid_plural "large artillery casings"
+msgstr[0] "空薬莢(155mm)"
+
+#. ~ Item name
+#. ~ Magazine name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "25x137mm ammo belt"
+msgid_plural "25x137mm ammo belts"
+msgstr[0] "弾帯(25x137mm)"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "25x137mm autocannon belt linkage"
+msgid_plural "25x137mm autocannon belt linkages"
+msgstr[0] "弾帯接続金具(25x137mm)"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "25x137mm M792 HEI"
+msgid_plural "25x137mm M792 HEI"
+msgstr[0] "弾薬(25x137mm/M792 HEI)"
+
+#. ~ Description of "25x137mm M792 HEI"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A 25x137mm autocannon round, high explosive incendiary.  Designed for use "
+"against unarmored vehicles and to suppress infantry."
+msgstr ""
+"25x137mm 焼夷榴弾です。  非装甲車両への使用と歩兵制圧用に設計されています。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "25x137mm M791 APDS"
+msgid_plural "25x137mm M791 APDS"
+msgstr[0] "弾薬(25x137mm/M791 APDS)"
+
+#. ~ Description of "25x137mm M791 APDS"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A 25x137mm autocannon round using an armor-piercing, discarding sabot with a "
+"tungsten penetrator.  Used primarily against light armored vehicles and "
+"aerial targets."
+msgstr ""
+"25x137mm 装弾筒付徹甲弾です。タングステン弾芯を使用した自動機関砲弾です。  主"
+"に軽装甲車両と航空目標に対して使用されます。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "reloaded 25x137mm"
+msgid_plural "reloaded 25x137mm"
+msgstr[0] "弾薬(25x137mm/手詰め)"
+
+#. ~ Description of "reloaded 25x137mm"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A 25x137mm autocannon round with its primer replaced, and loaded with a "
+"basic lead projectile.  Not as effective as the real thing, but still fairly "
+"potent."
+msgstr ""
+"25x137mm 自動機関砲弾です。雷管を交換し、基本的な鉛弾を装填したものです。  本"
+"物ほど効果的ではありませんが、それでもかなりの威力があります。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "reloaded 25x137mm, black powder"
+msgid_plural "reloaded 25x137mm, black powder"
+msgstr[0] "弾薬(25x137mm/黒色火薬/手詰め)"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "reloaded 25x137mm HE"
+msgid_plural "reloaded 25x137mm HE"
+msgstr[0] "弾薬(25x137mm/HE/手詰め)"
+
+#. ~ Description of "reloaded 25x137mm HE"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A 25x137mm autocannon round with its primer replaced, loaded with a homemade "
+"explosive round.  Useful against lightly armored targets, though not as "
+"effective as the real thing."
+msgstr ""
+"25x137mm 自動機関砲弾です。雷管を交換し、自家製爆薬を装填したものです。  軽装"
+"甲目標に有効ですが、本物ほど効果的ではありません。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "reloaded 25x137mm HE, black powder"
+msgid_plural "reloaded 25x137mm HE, black powder"
+msgstr[0] "弾薬(25x137mm/HE/黒色火薬/手詰め)"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "105mm M456 HEAT"
+msgid_plural "105mm M456 HEAT"
+msgstr[0] "弾薬(105mm/M456 HEAT)"
+
+#. ~ Description of "105mm M456 HEAT"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A 105mm High Explosive Anti Tank round, designed for older models of tank "
+"held in reserve up until the world was on the brink of ending.  Now that the "
+"world has gone and ended, it still packs quite a punch."
+msgstr ""
+"105mm 対戦車榴弾です。世界が終末の瀬戸際に立つまで予備として保管されていた旧"
+"式戦車用に設計されたものです。  世界が終わってしまった今でも、その威力は変わ"
+"りません。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "105mm M833 APFSDS"
+msgid_plural "105mm M833 APFSDS"
+msgstr[0] "弾薬(105mm/M833 APFSDS)"
+
+#. ~ Description of "105mm M833 APFSDS"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A 105mm Armor-Piercing Fin-Stabilized Discarding Sabot round, no longer "
+"commonly used except for hastily supplying obsolete tanks.  Brought out of "
+"mothballs or not, its depleted uranium projectile will still give whatever "
+"it hits a bad time."
+msgstr ""
+"105mm 離脱装弾筒付翼安定式徹甲弾です。現在では旧式戦車への急場しのぎの補給を"
+"除いて一般的には使用されていません。  保管庫から引っ張り出されたものであって"
+"も、その劣化ウラン弾芯は命中した標的に深刻な損害を与えるでしょう。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "makeshift 105mm slug"
+msgid_plural "makeshift 105mm slug"
+msgstr[0] "弾薬(105mm/簡易/ｽﾗｸﾞ)"
+
+#. ~ Description of "makeshift 105mm slug"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A 105mm shell with a new electric primer installed, loaded with a large "
+"handmade slug.  While hardly ideal, it packs quite a punch."
+msgstr ""
+"新しい電気雷管を取り付け、大型の手作りスラッグ弾を装填した105mm砲弾です。  理"
+"想的とは言い難いものの、相当な威力があります。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "makeshift 105mm slug, black powder"
+msgid_plural "makeshift 105mm slug, black powder"
+msgstr[0] "弾薬(105mm/簡易/ｽﾗｸﾞ/黒色火薬)"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "reloaded 105mm HE"
+msgid_plural "reloaded 105mm HE"
+msgstr[0] "弾薬(105mm/HE/手詰め)"
+
+#. ~ Description of "reloaded 105mm HE"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A 105mm shell with a new electric primer installed, loaded with a homemade "
+"explosive round.  Obsolete or not, it packs quite a punch."
+msgstr ""
+"新しい電気雷管を取り付け、自家製爆薬を装填した105mm砲弾です。  旧式であっても"
+"相当な威力を持ちます。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "reloaded 105mm HE, black powder"
+msgid_plural "reloaded 105mm HE, black powder"
+msgstr[0] "弾薬(105mm/HE/黒色火薬/手詰め)"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "120mm M830A1 HEAT"
+msgid_plural "120mm M830A1 HEAT"
+msgstr[0] "弾薬(120mm/M830A1 HEAT)"
+
+#. ~ Description of "120mm M830A1 HEAT"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A 120mm High Explosive Anti Tank round.  Packs an explosive punch that could "
+"ruin anyone's whole day."
+msgstr "120mm 対戦車榴弾です。  成形炸薬の指向性爆発が甚大な被害を与えます。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "120mm M829A3 APFSDS"
+msgid_plural "120mm M829A3 APFSDS"
+msgstr[0] "弾薬(120mm/M829A3 APFSDS)"
+
+#. ~ Description of "120mm M829A3 APFSDS"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A 120mm Armor-Piercing Fin-Stabilized Discarding Sabot round.  Uses a "
+"depleted uranium projectile to give whatever it hits a really bad day."
+msgstr ""
+"120mm 離脱装弾筒付翼安定式徹甲弾です。  劣化ウラン弾芯を使用し、命中した標的"
+"に壊滅的な損害を与えます。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "reloaded 120mm shot"
+msgid_plural "reloaded 120mm shot"
+msgstr[0] "弾薬(120mm/手詰め)"
+
+#. ~ Description of "reloaded 120mm shot"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A makeshift, rebuilt 120mm shell with a new electric primer installed, "
+"filled with a large amount of buckshot.  Effectively similar to no-longer-"
+"produced canister shot, but of lower quality."
+msgstr ""
+"簡易に再装填された120mm砲弾で、新しい電気雷管を取り付け、大量の散弾を詰め込ん"
+"でいます。  すでに生産されていないキャニスター弾に似ていますが、品質は劣りま"
+"す。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "makeshift 120mm shot, black powder"
+msgid_plural "makeshift 120mm shot, black powder"
+msgstr[0] "弾薬(120mm/簡易/黒色火薬)"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "reloaded 120mm slug"
+msgid_plural "reloaded 120mm slug"
+msgstr[0] "弾薬(120mm/ｽﾗｸﾞ/手詰め)"
+
+#. ~ Description of "reloaded 120mm slug"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A makeshift, rebuilt 120mm shell with a new electric primer installed, "
+"loaded with a large handmade slug.  While hardly ideal, it packs quite a "
+"punch."
+msgstr ""
+"簡易に再装填された120mm砲弾で、新しい電気雷管を取り付け、大型の自作スラグ弾頭"
+"を装填しています。  決して理想的とは言えませんが、相当な威力を発揮します。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "makeshift 120mm slug, black powder"
+msgid_plural "makeshift 120mm slug, black powder"
+msgstr[0] "弾薬(120mm/簡易/ｽﾗｸﾞ/黒色火薬)"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "reloaded 120mm HE"
+msgid_plural "reloaded 120mm HE"
+msgstr[0] "弾薬(120mm/HE/手詰め)"
+
+#. ~ Description of "reloaded 120mm HE"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A makeshift, rebuilt 120mm shell with a new electric primer installed, "
+"loaded with a homemade explosive round.  Packs an explosive punch that could "
+"ruin anyone's whole day."
+msgstr ""
+"簡易に再装填された120mm砲弾で、新しい電気雷管を取り付け、自作の炸薬弾頭を装填"
+"しています。  強烈な爆発力により甚大な被害を与えます。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "reloaded 120mm HE, black powder"
+msgid_plural "reloaded 120mm HE, black powder"
+msgstr[0] "弾薬(120mm/HE/黒色火薬/手詰め)"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "155mm M712 HEAT"
+msgid_plural "155mm M712 HEAT"
+msgstr[0] "弾薬(155mm/M712 HEAT)"
+
+#. ~ Description of "155mm M712 HEAT"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A 155mm High Explosive Anti Tank round, normally laser-guided.  Separate-"
+"loading, it comes with the requisite fuze installed, a propellant bag, and "
+"percussion primer.  As its guidance feature requires a laser designator and "
+"has a minimum range of 3 kilometers, using it for direct fire is an "
+"astounding display of overkill."
+msgstr ""
+"155mm 対戦車榴弾です。通常はレーザー誘導が必要です。分離装薬式で、必要な信"
+"管、装薬袋、撃発雷管が付属しています。  誘導機能にはレーザー指示装置が必要で"
+"最小射程が3キロメートルのため、直接射撃で使用するのは信じがたいオーバーキルと"
+"言えます。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "155mm M795 frag"
+msgid_plural "155mm M795 frag"
+msgstr[0] "弾薬(155mm/M795 破片)"
+
+#. ~ Description of "155mm M795 frag"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A 155mm High Explosive Fragmentation round.  Separate-loading, it comes with "
+"the requisite fuze installed, a propellant bag, and percussion primer.  "
+"Designed to lob a heavy shell a long distance, using it direct-fire isn't "
+"exactly ideal, but it'll still give anything near what you hit a seriously "
+"bad time."
+msgstr ""
+"155mm 榴散弾です。分離装薬式で、必要な信管、装薬袋、撃発雷管が付属していま"
+"す。  重い砲弾を長距離に投射するよう設計されているため直接射撃での使用は理想"
+"的とは言えませんが、命中地点の周辺にあるものには何でも深刻な損害を与えるで"
+"しょう。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "makeshift 155mm shot"
+msgid_plural "makeshift 155mm shot"
+msgstr[0] "弾薬(155mm/簡易)"
+
+#. ~ Description of "makeshift 155mm shot"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A makeshift separate-loading shotshell for 155mm.  Consists of a canister of "
+"lead balls, a bag of propellant, and a replacement primer.  Effectively "
+"turns a howitzer into a punt gun on steroids."
+msgstr ""
+"155mm散弾の簡易版です。鉛球を詰めた容器、装薬袋、交換式雷管で構成されていま"
+"す。  榴弾砲をまるで強化された超大型の散弾銃に変えてしまう代物です。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "makeshift 155mm shot, black powder"
+msgid_plural "makeshift 155mm shot, black powder"
+msgstr[0] "弾薬(155mm/簡易/黒色火薬)"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "makeshift 155mm slug"
+msgid_plural "makeshift 155mm slug"
+msgstr[0] "弾薬(155mm/簡易/ｽﾗｸﾞ)"
+
+#. ~ Description of "makeshift 155mm slug"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A makeshift separate-loading round for 155mm.  Consists of a large lead "
+"ball, a bag of propellant, and a replacement primer.  Despite the lower "
+"effectiveness, whatever it hits is sure to feel it."
+msgstr ""
+"155mm分離装填弾の簡易版です。大型の鉛球、装薬袋、交換式雷管で構成されていま"
+"す。  効果は劣りますが、命中したものは確実にその威力を感じるでしょう。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "makeshift 155mm slug, black powder"
+msgid_plural "makeshift 155mm slug, black powder"
+msgstr[0] "弾薬(155mm/簡易/黒色火薬)"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "reloaded 155mm HE"
+msgid_plural "reloaded 155mm HE"
+msgstr[0] "弾薬(150mm/HE/手詰め)"
+
+#. ~ Description of "reloaded 155mm HE"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A makeshift separate-loading HE round for 155mm.  Consists of a homemade "
+"explosive shell with fuze installed, a bag of propellant, and a replacement "
+"primer.  Using it for direct-fire isn't ideal, but it should be more than "
+"enough to ruin anyone's day."
+msgstr ""
+"簡易的な155mm用分離装薬式榴弾です。  信管付きの自作炸薬弾頭、装薬袋、交換用雷"
+"管で構成されています。  直射には適していませんが、甚大な被害を与えるには十分"
+"すぎる威力を持っています。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "reloaded 155mm HE, black powder"
+msgid_plural "reloaded 155mm HE, black powder"
+msgstr[0] "弾薬(150mm/HE/黒色火薬/手詰め)"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "155mm nuclear shell"
+msgid_plural "155mm nuclear shell"
+msgstr[0] "弾薬(155mm/核弾頭)"
+
+#. ~ Description of "155mm nuclear shell"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A makeshift separate-loading round for 155mm, developed from experimental "
+"designs.  Uses a propellant bag and replacement primer to fire a modified "
+"mininuke, adapted to fit a howitzer.  Whatever would warrant such awesome "
+"firepower would best be engaged from a safe distance."
+msgstr ""
+"実験的に作成された155mm分離装填弾です。装薬袋と交換式雷管を使用し、榴弾砲向け"
+"に改造された小型核弾頭を発射します。  この恐るべき火力が必要とされる状況で"
+"は、十分に離れた距離から対処するべきでしょう。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "25mm casing"
+msgid_plural "25mm casing"
+msgstr[0] "空薬莢(25mm)"
+
+#. ~ Description of "25mm casing"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "A canister from a spent 25mm shell."
+msgstr "使用済み25mm弾の薬莢です。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "105mm canister"
+msgid_plural "105mm canister"
+msgstr[0] "弾薬(105mm/ｷｬﾆｽﾀｰ)"
+
+#. ~ Description of "105mm canister"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "A canister from a spent 105mm shell, now an expensive paperweight."
+msgstr "使用済み105mm砲弾の薬莢です。今では高価な文鎮になっています。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "120mm case base"
+msgid_plural "120mm case base"
+msgstr[0] "弾薬基部(120mm)"
+
+#. ~ Description of "120mm case base"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"The steel case base from a spent 120mm shell.  With combustible case walls "
+"forming the bulk of the casing itself, what's left is now an expensive "
+"paperweight."
+msgstr ""
+"発射済の120mm砲弾の鋼鉄製薬莢底部です。  薬莢の大部分は可燃性のため、残された"
+"これは高価な文鎮にすぎません。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "makeshift 120mm canister"
+msgid_plural "makeshift 120mm canister"
+msgstr[0] "弾薬(125mm/簡易/ｷｬﾆｽﾀｰ)"
+
+#. ~ Description of "makeshift 120mm canister"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A spent 120mm case base converted into an improved casing, by welding new "
+"case walls of appropriate dimensions to the base.  Hopefully the welds are "
+"good, or else it might be a better fit for a pipe bomb instead."
+msgstr ""
+"発射済の120mm砲弾の薬莢の底部を流用し、適切な寸法の新しい薬莢壁を溶接して取り"
+"付けた簡易薬莢です。  溶接がうまくいっていることを祈るべきで、そうでなければ"
+"パイプ爆弾にでもした方がよいかもしれません。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "electric primer"
+msgid_plural "electric primer"
+msgstr[0] "雷管(105mm/120mm戦車砲)"
+
+#. ~ Description of "electric primer"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "Primer for a tank shell.  Seems to use an electric ignition."
+msgstr "戦車砲弾の雷管です。  電気発火式のようです。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "artillery primer"
+msgid_plural "artillery primer"
+msgstr[0] "雷管(155mm)"
+
+#. ~ Description of "artillery primer"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "Primer for an artillery shell.  Uses percussion ignition."
+msgstr "榴弾砲のプライマーです。  打撃点火式です。"
+
+#. ~ Item name
+#. ~ Name of a gun
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "M242 Bushmaster autocannon"
+msgid_plural "M242 Bushmaster autocannon"
+msgstr[0] "M242ブッシュマスター機関砲"
+
+#. ~ Description of gun "M242 Bushmaster autocannon"
+#. ~ Description of "M242 Bushmaster autocannon"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A chain-driven autocannon chambered in 25x137mm, designed for the Bradley "
+"IFV and other ground vehicles, with some naval use as well.  Electric-"
+"driven, it would be very difficult to fire if not mounted on a vehicle."
+msgstr ""
+"M242 ブッシュマスター機関砲です。25x137mm弾を使用するチェーン駆動式の機関砲"
+"で、ブラッドレー歩兵戦闘車や他の地上車両用に設計されており、一部で艦載用とし"
+"ても使用されています。  電動駆動のため、車両に搭載されていなければ発砲は非常"
+"に困難です。"
+
+#. ~ Firing mode of gun
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "semi-auto"
+msgstr ""
+
+#. ~ Firing mode of gun
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "low auto"
+msgstr ""
+
+#. ~ Firing mode of gun
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "high auto"
+msgstr ""
+
+#. ~ Skill associated with gun
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgctxt "gun_type_type"
+msgid "launcher"
+msgstr ""
+
+#. ~ Item name
+#. ~ Name of a gun
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "stripped-down 25mm cannon"
+msgid_plural "stripped-down 25mm cannon"
+msgstr[0] "軽量化25mm機関砲"
+
+#. ~ Description of gun "stripped-down 25mm cannon"
+#. ~ Description of "stripped-down 25mm cannon"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"Modified from a M242 Bushmaster autocannon, this pared down weapon has been "
+"altered into a makeshift anti-materiel rifle.  Its chain-driven mechanism "
+"has been removed, reducing weight in exchange for converting it into a "
+"single-shot design.  Still extremely bulky, requiring it to be deployed or "
+"mounted on a vehicle."
+msgstr ""
+"M242ブッシュマスター機関砲を改造して作られたもので、簡易的に対物ライフルに仕"
+"立てられています。  チェーン駆動機構を取り外すことで単発式となり軽量化されて"
+"いますが、それでもなお非常にかさばるので射撃するには設置するか車両に搭載しな"
+"ければなりません。"
+
+#. ~ Skill associated with gun
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgctxt "gun_type_type"
+msgid "rifle"
+msgstr ""
+
+#. ~ Valid mod location of gun
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "accessories"
+msgstr ""
+
+#. ~ Valid mod location of gun
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "stock"
+msgstr ""
+
+#. ~ Valid mod location of gun
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "grip mount"
+msgstr ""
+
+#. ~ Valid mod location of gun
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "rail mount"
+msgstr ""
+
+#. ~ Valid mod location of gun
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "sights mount"
+msgstr ""
+
+#. ~ Valid mod location of gun
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "underbarrel mount"
+msgstr ""
+
+#. ~ Item name
+#. ~ Name of a gun
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "makeshift 25mm cannon"
+msgid_plural "makeshift 25mm cannon"
+msgstr[0] "簡易25mm機関砲"
+
+#. ~ Description of gun "makeshift 25mm cannon"
+#. ~ Description of "makeshift 25mm cannon"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A makeshift cannon crudely chambered for 25x137mm, with a short thick-walled "
+"barrel and a breechblock fashioned out of hardened steel.  Very unreliable "
+"and massively reduces performance, but simpler to install and easier to "
+"repair.  Only holds a single shot, and must be deployed or mounted on a "
+"vehicle."
+msgstr ""
+"25x157mm砲弾を発射できるよう無理に改造された簡易的な機関砲で、短い肉厚の砲身"
+"と焼入れ鋼製の閉鎖機を備えています。  信頼性に欠け、性能も大幅に低下します"
+"が、設置が容易で修理もしやすいです。  単発式で電気点火方式を採用しており、車"
+"両に搭載しなければ発射できません。"
+
+#. ~ Item name
+#. ~ Name of a gun
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "M246 120mm tank gun"
+msgid_plural "M246 120mm tank gun"
+msgstr[0] "M246 120mm戦車砲"
+
+#. ~ Description of gun "M246 120mm tank gun"
+#. ~ Description of "M246 120mm tank gun"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A version of the Rheinmetall Rh-120, this 120mm cannon is most notably used "
+"in the M1 Abhrams.  Uses electric ignition, and obviously needs to be "
+"mounted on a vehicle to fire."
+msgstr ""
+"ラインメタル Rh-120の改良型で、この120mm砲はM1エイブラムス戦車に採用されたこ"
+"とで知られています。  電気点火式で、当然ながら発射するには車両への搭載が必要"
+"です。"
+
+#. ~ Item name
+#. ~ Name of a gun
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "XM246E1 autoloading tank gun"
+msgid_plural "XM246E1 autoloading tank gun"
+msgstr[0] "XM246E1自動装填式戦車砲"
+
+#. ~ Description of gun "XM246E1 autoloading tank gun"
+#. ~ Description of "XM246E1 autoloading tank gun"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"An experimental variant of the Rheinmetall Rh-120, this 120mm cannon is "
+"equipped with a 5-round autoloader.  Uses electric ignition, and obviously "
+"needs to be mounted on a vehicle to fire."
+msgstr ""
+"ラインメタルRh-120の実験型バリエーションで、5発分の自動装填装置を備えた120mm"
+"戦車砲です。  電気点火方式を採用しており、もちろん車両に搭載しなければ発射で"
+"きません。"
+
+#. ~ Item name
+#. ~ Name of a gun
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "makeshift 120mm tank gun"
+msgid_plural "makeshift 120mm tank gun"
+msgstr[0] "簡易120mm戦車砲"
+
+#. ~ Description of gun "makeshift 120mm tank gun"
+#. ~ Description of "makeshift 120mm tank gun"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A makeshift cannon crudely chambered for 120mm tank shells, with a short "
+"thick-walled barrel and a breechblock fashioned out of hardened steel.  Very "
+"unreliable and massively reduces performance, but simpler to install and "
+"easier to repair.  Only holds a single shot, uses electric ignition, and "
+"must be mounted on a vehicle to fire."
+msgstr ""
+"120mm砲弾を発射できるよう無理に改造された簡易的な大砲で、短い肉厚の砲身と焼入"
+"れ鋼製の閉鎖機を備えています。  信頼性に欠け、性能も大幅に低下しますが、設置"
+"が容易で修理もしやすいです。  単発式で電気点火方式を採用しており、車両に搭載"
+"しなければ発射できません。"
+
+#. ~ Item name
+#. ~ Name of a gun
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "M68 105mm tank gun"
+msgid_plural "M68 105mm tank gun"
+msgstr[0] "M68 105mm戦車砲"
+
+#. ~ Description of gun "M68 105mm tank gun"
+#. ~ Description of "M68 105mm tank gun"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A version of the Royal Ordinance L7, this 105mm rifled cannon is used in "
+"various armored vehicles worldwide, many no longer in service, some still in "
+"use, and some brought back out of reserve in the desperate last days before "
+"the world ended.  Uses electric ignition, and obviously needs to be mounted "
+"on a vehicle to fire."
+msgstr ""
+"世界各国の装甲車両で使用されていたロイヤル・オードナンス L7の改良型です。多く"
+"は既に退役していますが一部は現在も使用中で、また一部は世界が終わる前の絶望的"
+"な最後の日々に予備から復帰させられました。  電気点火式で、当然ながら発砲する"
+"には車両への搭載が必要です。"
+
+#. ~ Item name
+#. ~ Name of a gun
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "makeshift 105mm tank gun"
+msgid_plural "makeshift 105mm tank gun"
+msgstr[0] "簡易105mm戦車砲"
+
+#. ~ Description of gun "makeshift 105mm tank gun"
+#. ~ Description of "makeshift 105mm tank gun"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A makeshift cannon crudely chambered for 105mm tank shells, with a short "
+"thick-walled barrel and a breechblock fashioned out of hardened steel.  Very "
+"unreliable and massively reduces performance, but simpler to install and "
+"easier to repair.  Only holds a single shot, uses electric ignition, and "
+"must be mounted on a vehicle to fire."
+msgstr ""
+"105mm砲弾を発射できるよう無理に改造された簡易的な大砲で、短い肉厚の砲身と焼入"
+"れ鋼製の閉鎖機を備えています。  信頼性に欠け、性能も大幅に低下しますが、設置"
+"が容易で修理もしやすいです。  単発式で電気点火方式を採用しており、車両に搭載"
+"しなければ発射できません。"
+
+#. ~ Item name
+#. ~ Name of a gun
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "M284 howitzer"
+msgid_plural "M284 howitzer"
+msgstr[0] "M284榴弾砲"
+
+#. ~ Description of gun "M284 howitzer"
+#. ~ Description of "M284 howitzer"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A 155mm cannon designed for self-propelled guns such as the M109.  Obviously "
+"it needs to be mounted on a vehicle to fire."
+msgstr ""
+"M109自走砲などに搭載するために設計された155mm榴弾砲です。   当然ながら発射す"
+"るには車両への搭載が必要です。"
+
+#. ~ Item name
+#. ~ Name of a gun
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "makeshift 155mm howitzer"
+msgid_plural "makeshift 155mm howitzer"
+msgstr[0] "簡易155mm榴弾砲"
+
+#. ~ Description of gun "makeshift 155mm howitzer"
+#. ~ Description of "makeshift 155mm howitzer"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A makeshift cannon crudely chambered for 155mm artillery shells, with a "
+"short thick-walled barrel and a breechblock fashioned out of hardened "
+"steel.  Very unreliable and massively reduces performance, but simpler to "
+"install and easier to repair.  Only holds a single shot, and must be mounted "
+"on a vehicle to fire."
+msgstr ""
+"155mm榴弾を発射できるよう無理に改造された簡易的な大砲で、短い肉厚の砲身と焼入"
+"れ鋼製の閉鎖機を備えています。  信頼性に欠け、性能も大幅に低下しますが、設置"
+"が容易で修理もしやすいです。  単発式で電気点火方式を採用しており、車両に搭載"
+"しなければ発射できません。"
+
+#. ~ Item name
+#. ~ Name of a gun
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "BGM-71F TOW Under Armor"
+msgid_plural "BGM-71F TOW Under Armor"
+msgstr[0] "対戦車ミサイル(GBM-71F TOW)"
+
+#. ~ Description of gun "BGM-71F TOW Under Armor"
+#. ~ Description of "BGM-71F TOW Under Armor"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A twin-tube launcher for anti-tank guided missiles, specifically designed "
+"for vehicle use.  While fairly accurate, it isn't fire-and-forget.  "
+"Obviously it needs to be mounted on a vehicle to fire."
+msgstr ""
+"対戦車誘導ミサイル用の双連装発射機で、車両搭載専用に設計されています。  狙い"
+"はかなり正確ですが、撃ちっぱなし式ではありません。当然ながら発射するには車両"
+"への搭載が必要です。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "Artillery and Field Gunnery"
+msgid_plural "copies of Artillery and Field Gunnery"
+msgstr[0] "本(学習/砲兵と野砲)"
+
+#. ~ Description of "Artillery and Field Gunnery"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A textbook on the history of modern artillery, with a number of "
+"illustrations and excerpts from various field manuals.  A competent "
+"handloader or mechanic might find additional uses for the more technical "
+"parts of the text."
+msgstr ""
+"近代砲兵の歴史を扱った教科書で、多数の挿絵や各種野戦教範からの抜粋を含んでい"
+"ます。  弾薬手詰や整備に熟練していれば、技術的な記述を応用できるかもしれませ"
+"ん。"
+
+#. ~ Item name
+#. ~ Name of a gun
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "XM246E1 monster tank gun"
+msgid_plural "XM246E1 monster tank guns"
+msgstr[0] ""
+
+#. ~ Description of gun "XM246E1 monster tank gun"
+#. ~ Description of "XM246E1 monster tank gun"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"This exists to alter the dispersion of the new tank drone.  This is a bug if "
+"you find one of these."
+msgstr ""
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "broken Mini-Tank UAFV"
+msgid_plural "broken Mini-Tank UAFVs"
+msgstr[0] "壊れた重装無人戦車"
+
+#. ~ Description of "broken Mini-Tank UAFV"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A hulking wreck of treads, composite plating, and cold robotic hatred.  "
+"Hopefully won't ever be operational again, now only good for parts."
+msgstr ""
+"無限軌道と装甲板、冷酷な機械の意思でできた巨大な残骸です。  再稼働しないこと"
+"を願いながら、分解して部品を取り出せそうです。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "rubber caterpillar track"
+msgid_plural "rubber caterpillar tracks"
+msgstr[0] "キャタピラ(ゴム)"
+
+#. ~ Description of "rubber caterpillar track"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A short, interlocking set of hard rubber tracks reinforced by stiff wire "
+"held in place by a set of smaller wheels.  Similar with what you might see "
+"used on light construction vehicles.  It's significantly stronger than "
+"regular tires due to not being at risk of bursting; but is quite heavy."
+msgstr ""
+"硬質ゴム製のキャタピラで、硬いワイヤーで補強され、小型の車輪群によって保持さ"
+"れる構造になっています。  小型建設車両でよく見られるタイプで、破裂の危険がな"
+"いため通常のタイヤよりもはるかに頑丈ですが、その分重量があります。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "steel caterpillar track"
+msgid_plural "steel caterpillar tracks"
+msgstr[0] "キャタピラ(鋼材)"
+
+#. ~ Description of "steel caterpillar track"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A short, interlocking set of shaped steel tracks held in place by a set of "
+"smaller wheels.  Similar with what you might see used on large construction "
+"vehicles.  It's significantly stronger than regular tires due to not being "
+"at risk of bursting; but is very heavy."
+msgstr ""
+"鋼材のキャタピラで、小型の車輪群によって保持される構造になっています。  大型"
+"建設車両でよく見られるタイプで、破裂の危険がないため通常のタイヤよりもはるか"
+"に頑丈ですが、その分非常に重いです。"
+
+#. ~ Item name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid "reinforced caterpillar track"
+msgid_plural "reinforced caterpillar tracks"
+msgstr[0] "キャタピラ(戦車)"
+
+#. ~ Description of "reinforced caterpillar track"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\items.json
+msgid ""
+"A short, interlocking set of shaped steel tracks held in place by a set of "
+"smaller wheels.  Similar with what you might see used on APCs and armored "
+"vehicles.  It's significantly stronger than regular tires due to not being "
+"at risk of bursting; but is extremely heavy."
+msgstr ""
+"鋼材のキャタピラで、小型の車輪群によって保持される構造になっています。  装甲"
+"兵員輸送車や装甲車両でよく見られるタイプで、破裂の危険がないため通常のタイヤ"
+"よりもはるかに頑丈ですが、その分極めて重いです。"
+
+#. ~ Mission name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\missiondef.json
+msgid "Supply Run"
+msgstr "物資輸送"
+
+#. ~ Description of mission "Supply Run"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\missiondef.json
+msgid ""
+"The last of your tank's crew was heading to a helipad in the area in search "
+"of supplies, and never returned.  They clearly didn't make it, and by now "
+"it's probably overrun, but some fuel and ammo would be better than nothing."
+msgstr ""
+"あなたの戦車の最後の乗員が物資を求めてヘリポートへ向かいましたが、たどり着け"
+"なかったのでしょう。戻ってはきませんでした。  今ごろは制圧されているはずです"
+"が、それでも燃料や弾薬を少しでも確保できるかもしれません。"
+
+#. ~ MOD name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\modinfo.json
+msgid "Tankmod: Revived"
+msgstr ""
+
+#. ~ Description of MOD "Tankmod: Revived"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\modinfo.json
+msgid ""
+"The intended successor of my older, obsoleted Tanks and Other Vehicles mod."
+msgstr "かつて廃止された戦車とその他の車両modの後継を目指しています。"
+
+#. ~ Monster name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\monsters.json
+msgid "XM246E1 Mini-Tank UAFV"
+msgid_plural "XM246E1 Mini-Tank UAFVs"
+msgstr[0] "重装無人戦車(XM246E1)"
+
+#. ~ Description of monster "XM246E1 Mini-Tank UAFV"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\monsters.json
+msgid ""
+"An experimental, heavily armored UGV the size of a small vehicle, its "
+"structure dominated by a bulky 120mm main gun.  It trundles along on armored "
+"treads, ponderous yet implacable.  If it's taking aim at you… run."
+msgstr ""
+"小型車ほどの大きさを持つ実験的な重装甲無人戦車で、巨大な120mm主砲がその構造の"
+"大部分を占めています。  装甲履帯が重々しくも容赦なく進み続けます。  もし狙わ"
+"れたら……逃げてください。"
+
+#. ~ Death message of monster "XM246E1 Mini-Tank UAFV"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\monsters.json
+#, c-format
+msgid "The %s explodes!"
+msgstr "%s が爆発した！"
+
+#. ~ Description of special attack of monster "XM246E1 Mini-Tank UAFV"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\monsters.json
+msgid "The mini-tank fires its 120mm gun!"
+msgstr "無人戦車が120mmを発射！"
+
+#. ~ Targeting sound of special attack of monster "XM246E1 Mini-Tank UAFV"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\monsters.json
+msgid "\"120mm HEAT, up.  Targeting.  On the way.\""
+msgstr "\"120mm HEAT弾、装填完了。  照準中。  発射用意\""
+
+#. ~ No ammo sound of special attack of monster "XM246E1 Mini-Tank UAFV"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\monsters.json
+msgid "a hollow click!"
+msgstr "カチッ！"
+
+#. ~ Profession name for male
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\professions.json
+msgctxt "profession_male"
+msgid "Tank Driver"
+msgstr "戦車操縦士"
+
+#. ~ Description of profession "Tank Driver" for male
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You were in charge of driving the tank, but without a commander it's a lot "
+"harder to get a clear picture of what's around you."
+msgstr ""
+"あなたは戦車の操縦を担当していましたが、車長がいなくなっては周囲の状況を正確"
+"に把握するのは困難です。"
+
+#. ~ Profession name for female
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\professions.json
+msgctxt "profession_female"
+msgid "Tank Driver"
+msgstr "戦車操縦士"
+
+#. ~ Description of profession "Tank Driver" for female
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You were in charge of driving the tank, but without a commander it's a lot "
+"harder to get a clear picture of what's around you."
+msgstr ""
+"あなたは戦車の操縦を担当していましたが、車長がいなくなっては周囲の状況を正確"
+"に把握するのは困難です。"
+
+#. ~ Profession name for male
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\professions.json
+msgctxt "profession_male"
+msgid "Tank Gunner"
+msgstr "戦車射撃手"
+
+#. ~ Description of profession "Tank Gunner" for male
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You were responsible for aiming and firing the main gun, but now you have no "
+"one left to spot targets for you."
+msgstr ""
+"あなたは戦車の主砲の照準と射撃を担当していましたが、いまや誰も目標を指示して"
+"くれません。"
+
+#. ~ Profession name for female
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\professions.json
+msgctxt "profession_female"
+msgid "Tank Gunner"
+msgstr "戦車射撃手"
+
+#. ~ Description of profession "Tank Gunner" for female
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You were responsible for aiming and firing the main gun, but now you have no "
+"one left to spot targets for you."
+msgstr ""
+"あなたは戦車の主砲の照準と射撃を担当していましたが、いまや誰も目標を指示して"
+"くれません。"
+
+#. ~ Profession name for male
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\professions.json
+msgctxt "profession_male"
+msgid "Tank Loader"
+msgstr "装填手"
+
+#. ~ Description of profession "Tank Loader" for male
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Your job was to help the main gunner with loading, now you'll have to do all "
+"the work yourself."
+msgstr ""
+"あなたの任務は射撃手の装填を補助することでしたが、いまは自分ですべてをこなさ"
+"なければなりません。"
+
+#. ~ Profession name for female
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\professions.json
+msgctxt "profession_female"
+msgid "Tank Loader"
+msgstr "装填手"
+
+#. ~ Description of profession "Tank Loader" for female
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Your job was to help the main gunner with loading, now you'll have to do all "
+"the work yourself."
+msgstr ""
+"あなたの任務は射撃手の装填を補助することでしたが、いまは自分ですべてをこなさ"
+"なければなりません。"
+
+#. ~ Profession name for male
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\professions.json
+msgctxt "profession_male"
+msgid "Tank Commander"
+msgstr "戦車長"
+
+#. ~ Description of profession "Tank Commander" for male
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Your role was to coordinate the tank crew's actions and spot targets, a job "
+"made significantly harder by everyone else being either dead or MIA."
+msgstr ""
+"あなたの役割は戦車乗員の行動を統率し、目標を指示することでしたが、他の全員が"
+"戦死するか行方不明になったため、その任務は著しく困難になっています。"
+
+#. ~ Profession name for female
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\professions.json
+msgctxt "profession_female"
+msgid "Tank Commander"
+msgstr "戦車長"
+
+#. ~ Description of profession "Tank Commander" for female
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Your role was to coordinate the tank crew's actions and spot targets, a job "
+"made significantly harder by everyone else being either dead or MIA."
+msgstr ""
+"あなたの役割は戦車乗員の行動を統率し、目標を指示することでしたが、他の全員が"
+"戦死するか行方不明になったため、その任務は著しく困難になっています。"
+
+#. ~ Scenario name for male
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\scenarios.json
+msgctxt "scenario_male"
+msgid "Armored Apocalypse"
+msgstr "装甲黙示録"
+
+#. ~ Scenario name for female
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\scenarios.json
+msgctxt "scenario_female"
+msgid "Armored Apocalypse"
+msgstr "装甲黙示録"
+
+#. ~ Description of scenario "Armored Apocalypse" for male
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\scenarios.json
+msgctxt "scen_desc_male"
+msgid ""
+"Wandering in search of any other survivors after a disastrous mobilization, "
+"your tank and its crew have slowly been worn down by attrition.  After "
+"trying to establish communications using an old radio tower, the only other "
+"surviving crew member went off in search of supplies and fuel a few days "
+"ago.  Now something's stirred up the undead, several are converging on your "
+"position."
+msgstr ""
+"大規模動員の失敗を経て生存者を探しさまよい続けるうちに、あなたの戦車とその乗"
+"員は徐々に消耗していきました。  古い無線塔で通信を確立しようとした後、唯一"
+"残ったもう一人の乗員も数日前に物資と燃料を求めて出ていきました。  そして今、"
+"何かが死者を刺激したのか、幾体かが集まり始めました。"
+
+#. ~ Description of scenario "Armored Apocalypse" for female
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\scenarios.json
+msgctxt "scen_desc_female"
+msgid ""
+"Wandering in search of any other survivors after a disastrous mobilization, "
+"your tank and its crew have slowly been worn down by attrition.  After "
+"trying to establish communications using an old radio tower, the only other "
+"surviving crew member went off in search of supplies and fuel a few days "
+"ago.  Now something's stirred up the undead, several are converging on your "
+"position."
+msgstr ""
+"大規模動員の失敗を経て生存者を探しさまよい続けるうちに、あなたの戦車とその乗"
+"員は徐々に消耗していきました。  古い無線塔で通信を確立しようとした後、唯一"
+"残ったもう一人の乗員も数日前に物資と燃料を求めて出ていきました。  そして今、"
+"何かが死者を刺激したのか、幾体かが集まり始めました。"
+
+#. ~ Starting location of scenario "Armored Apocalypse"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\scenarios.json
+msgctxt "start_name"
+msgid "Radio Tower"
+msgstr ""
+
+#. ~ Snippet in category "note"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\snippets.json
+msgid ""
+"\"Tank drone, meet the real deal.  See how you handle 120 millimeters of "
+"HELL YEAH!\""
+msgstr "タンクドローンめ、本物を喰らわせてやる。コイツが120ミリだ！"
+
+#. ~ Snippet in category "note"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\snippets.json
+msgid "\"big fucking gun, earplugs are good for your brain\""
+msgstr "クソでかい大砲を使うなら耳栓で脳を守れ"
+
+#. ~ Snippet in category "note"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\snippets.json
+msgid "\"I have a bicycle-mounted tank cannon.  Your argument is invalid.\""
+msgstr "戦車砲を乗せた自転車を持ってる。  反論は認めない"
+
+#. ~ Snippet in category "note"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\snippets.json
+msgid ""
+"\"Next person to call this infantry fighting vehicle a 'tank' is walking "
+"home.\""
+msgstr "次にこの歩兵戦闘車を『戦車』と呼んだやつは、家まで歩いて帰らすからな"
+
+#. ~ Snippet in category "note"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\snippets.json
+msgid ""
+"\"Found what used to be an armored platoon.  I don't want to find out what "
+"did them in.\""
+msgstr "元装甲小隊だった残骸を見つけた。  何がやったのかは知りたくない"
+
+#. ~ Snippet in category "one_year_old_news"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\snippets.json
+msgid ""
+"EXPERIMENTAL TANKS TO ENTER FIELD TESTS - A press release yesterday from the "
+"Department of Defense has confirmed plans for a series of field tests for a "
+"new model of light tank, currently designated the XM7 Tankette.  A major "
+"departure from previous armor doctrine, the experimental design features a "
+"long-range electric engine and a state-of-the-art autoloader, recently "
+"upgraded to fit a 120mm main gun.  Most notable was the confirmation of a "
+"one-man crew compartment, with mention of advanced fire control and sensors "
+"rendering a commander and gunner unnecessary.  According to General "
+"Dabrowski, \"These aren't expected to replace the venerable Abrams, instead "
+"we're expecting them to find a new niche for urban warfare.  We're hoping in "
+"about a year these will cost a fourth as much as an Abrams to produce while "
+"having the same level of firepower.  For the same number of soldiers it'd "
+"take to crew one tank, we could have four of these all supporting each "
+"other, each monitoring the situation and calling in targets.\""
+msgstr ""
+"実験戦車、野外試験へ - 国防総省は昨日のプレスリリースで、新型軽戦車の一連の野"
+"外試験計画を確認した。現時点での指定は「XM7 Tankette」。  この実験的設計は従"
+"来の装甲ドクトリンからの大きな転換で、長距離航続が可能な電動エンジンと最新鋭"
+"の自動装填装置を備え、最近になって120mm主砲に対応するよう改修された。特筆すべ"
+"きは単座の乗員区画が確認された点で、高度な射撃統制とセンサーにより車長と砲手"
+"を不要とするという。  ダブロウスキー准将は「これは由緒あるエイブラムスの代替"
+"を想定していない。都市戦における新たな役割を見込んでいる。  約1年後には、同等"
+"の火力を維持しつつ製造コストをエイブラムスの4分の1にできることを期待してい"
+"る。  同じ人数の兵員で1両の戦車を運用する代わりに、これを4両相互に支援させ、"
+"各車が状況を監視して目標を指示できるようになる」と述べた。"
+
+#. ~ Snippet in category "months_old_news"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\snippets.json
+msgid ""
+"ROBOT TANK UNVEILED - A recent press conference has confirmed the latest "
+"development in AI-driven defense systems.  Much of the details remain "
+"classified, other than the new project having only recently entered early "
+"testing.  \"We've refined some of the developments that went into the XM7 "
+"Tankette to fit an even more compact package.\" says the update, in "
+"reference to the experimental light tank program to see increased production "
+"and formal adoption in the coming months.  \"We're exploring uncharted "
+"territory with the autonomous fire control, nothing we've put into use so "
+"far has handled anything as large as a tank cannon.  Once we have all the "
+"kinks worked out we'll proceed with the next wave of trials.  We should have "
+"a working dual-core AI ready by the end of the year that can handle both the "
+"main gun and an M2 Browning, but for now we're focusing on the main gun.\""
+msgstr ""
+"ロボット戦車、お披露目 - 先日の記者会見で、AI駆動の防衛システムにおける最新開"
+"発が確認された。  新プロジェクトはごく最近になって初期試験段階に入ったばかり"
+"であり、多くの詳細は依然として機密扱いとされている。  発表によれば「XM7 "
+"Tankette計画で得られた技術を応用し、さらなる小型化に成功した」という。実験的"
+"軽戦車計画は今後、生産拡大と正式採用に向かう見通しだ。  「自律型射撃統制は未"
+"踏の領域だ。これまで運用してきたものは、戦車砲のような大口径兵器を扱ったこと"
+"がない。  すべての問題を解決し次第、次の試験段階に進む予定だ。今年末までには"
+"主砲とM2ブローニングの両方を制御できるデュアルコアAIを完成させる計画だが、現"
+"時点では主砲に重点を置いている」としている。"
+
+#. ~ Snippet in category "weeks_old_news"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\snippets.json
+msgid ""
+"PATTON TANKS TO BE RESTORED - Amid rumors of war on the horizon and growing "
+"unrest, a recent new briefing outlined an emergency plan to restore and "
+"rearm several M60 Patton main battle tanks, with roughly two hundred "
+"projected to be available across the New England region within the coming "
+"weeks.  Officials refused to clarify the purpose of this rearmament program, "
+"leaving speculation that the move is an unintentional confirmation of an "
+"impending Chinese invasion.  According to an anonymous source within the "
+"military, \"They don't expect them to be facing Type 96 or 99 tanks.  "
+"They'll likely be used to engage IFVs such as the Type 08 or the Type 15 "
+"light tank.\""
+msgstr ""
+"パットン戦車、再配備へ - 戦争の兆しをめぐる噂と高まる不安のなか、先日の記者会"
+"見で緊急計画が明らかにされた。それによれば、複数のM60パットン主力戦車を修復・"
+"再武装し、今後数週間のうちにニューイングランド各地でおよそ200両を展開可能にす"
+"るという。  当局はこの再武装計画の目的について明言を避けたが、中国による侵攻"
+"が差し迫っていることの暗黙の確認ではないかとの憶測を呼んでいる。  軍内部の匿"
+"名の情報源によれば「M60パットンは96式や99式戦車と相対することは想定していな"
+"い。おそらくは08式歩兵戦闘車や15式軽戦車といった車両に対処するために用いられ"
+"るだろう」とのことだ。"
+
+#. ~ Speech from speaker mon_uafv_xm246e1
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\speech.json
+msgid "hummm!"
+msgstr "ブーン！"
+
+#. ~ Speech from speaker mon_uafv_xm246e1
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\speech.json
+msgid "whirrr!"
+msgstr "ウィーン！"
+
+#. ~ Speech from speaker mon_uafv_xm246e1
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\speech.json
+msgid "the trundle of machinery."
+msgstr "ゴトゴト唸る機械音。"
+
+#. ~ Speech from speaker mon_uafv_xm246e1
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\speech.json
+msgid "the creaking of steel treads."
+msgstr "鋼鉄のキャタピラがきしむ音。"
+
+#. ~ Speech from speaker mon_uafv_xm246e1
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\speech.json
+msgid "the metallic squeal of tank tracks!"
+msgstr "戦車の履帯がきしむ金属音！"
+
+#. ~ Name of starting location "sloc_tankmod_radio_tower"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\start_locations.json
+msgid "Radio Tower"
+msgstr ""
+
+#. ~ Vehicle part name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\treads.json
+msgid "rubber treads"
+msgstr "履帯(ゴム)"
+
+#. ~ Description of vehicle part "rubber treads"
+#. ~ Description of vehicle part "steel treads"
+#. ~ Description of vehicle part "tank treads"
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\treads.json
+msgid ""
+"A section of continuous track, the kind mounted on construction vehicles and "
+"military fighting vehicles.  It acts as a wheel, and the broad surface "
+"provides plenty of traction to move heavy vehicles off-road, but at the cost "
+"of speed due to the heavy weight."
+msgstr ""
+"建設車両や軍用戦闘車両に用いられる無限軌道の一部です。  車輪の役割を果たし、"
+"広い接地面によって重車両を不整地で走行させるのに十分な牽引力を発揮しますが、"
+"その重量のため速度は低下します。"
+
+#. ~ Label of vehicle part variant ""
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\treads.json
+msgctxt "vpart_variants"
+msgid "Default"
+msgstr ""
+
+#. ~ Vehicle part name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\treads.json
+msgid "steel treads"
+msgstr "履帯(鋼材)"
+
+#. ~ Vehicle part name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\treads.json
+msgid "tank treads"
+msgstr "履帯(戦車)"
+
+#. ~ Vehicle name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\vehicles.json
+msgid "M1 Abrams Main Battle Tank"
+msgstr "M1エイブラムス"
+
+#. ~ Vehicle name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\vehicles.json
+msgid "M109 Self-Propelled Howitzer"
+msgstr "M109自走砲"
+
+#. ~ Vehicle name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\vehicles.json
+msgid "M2 Bradley Infantry Fighting Vehicle"
+msgstr "M2ブラッドレー歩兵戦闘車"
+
+#. ~ Vehicle name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\vehicles.json
+msgid "Bandit Bulldozer"
+msgstr "バンディットブルドーザー"
+
+#. ~ Vehicle name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\vehicles.json
+msgid "Heavy Planter Tractor"
+msgstr "大型播種トラクター"
+
+#. ~ Vehicle name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\vehicles.json
+msgid "Heavy Plow Tractor"
+msgstr "大型耕運機"
+
+#. ~ Vehicle name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\vehicles.json
+msgid "Heavy Reaper Tractor"
+msgstr "大型刈取り機"
+
+#. ~ Vehicle name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\vehicles.json
+msgid "M60 Patton Main Battle Tank"
+msgstr "M60パットン"
+
+#. ~ Vehicle name
+#: ..\cdda-tankmod-revived-mod\Tankmod_Revived\vehicles.json
+msgid "XM7 Electric Mini-Tank"
+msgstr "XM7小型電気戦車"
